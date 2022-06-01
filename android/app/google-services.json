@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961846490568",
+    "project_id": "my-message-45cb9",
+    "storage_bucket": "my-message-45cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961846490568:android:af486faf62f4d56897fcfd",
+        "android_client_info": {
+          "package_name": "com.MayarRex.MyMessage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961846490568-28t4p6fkqecij6vaagnrfq9ivdpk03vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RZl5LAuRm5cEA-pvBsL8ut_JIp2aUuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961846490568-28t4p6fkqecij6vaagnrfq9ivdpk03vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
