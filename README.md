@@ -1,4 +1,18 @@
-Messanger app using Flutter frame work as a front end and a Firebase  and Firestore as a back-end an dataa base.
+Messanger app using Flutter frame work as a front end and a Firebase  and Firestore as a back-end an dataa basecontain many of pages like:
+
+sign in & regesterd
+home page to show products
+add new product.
+setting page.
+search page.
+It also contains many features like:
+
+change theme.
+change language.
+delete your product and edit theme.
+
+
+
 
 ![photo_2022-06-01_17-42-51](https://user-images.githubusercontent.com/106633851/171441144-8d201bed-125a-4390-8c34-6832251789ac.jpg)
 ![photo_2022-06-01_17-44-06](https://user-images.githubusercontent.com/106633851/171441161-e6b342f8-5d0f-44d3-aacc-0cefcad242f7.jpg)
